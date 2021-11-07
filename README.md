@@ -1,6 +1,6 @@
 # vk_api_testing
 ## Запуск
- - Python >= 3.7
+ - Python >= 3.6
  - Для запуска тестов необходимо установить зависимости из requirements.txt
  - Запуск командой `python -m py.test`
 ## Информация
